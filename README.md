@@ -8,7 +8,7 @@ pkg update && pkg upgrade
 
 > pkg install git
 
-> git clone https://github.com/Iqbl-Bobz/b-mbf
+> git clone  https://github.com/Zuck49/b-mbf
 
 > cd b-mbf
 
